@@ -2,13 +2,11 @@
 
 ## Getting Started
 
-
-Flutter Speech to Text App This Project has "main.dart" as Entry Point.
+flutter_taxi_booking_customer_app has Project has "main.dart" as Entry Point.
 
 - [Lab: Hire me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
 - [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
 - [Drop me your message](https://twitter.com/khandla20)
-
 
 
 https://user-images.githubusercontent.com/48312656/115983462-a721b100-a54d-11eb-8487-d122b5e70901.mp4
